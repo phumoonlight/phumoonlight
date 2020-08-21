@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ...
+
+TypeScript, React, Next.js, Jest
+
+📫 How to reach me: ...
+
+https://www.facebook.com/ppmeemee
+https://twitter.com/phumoonlight
+
 <!--
 **phumoonlight/phumoonlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
