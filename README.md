@@ -2,7 +2,12 @@
 
 🌱 I’m currently learning ...
 
-TypeScript, React, Next.js, Jest
+- TypeScript
+- React
+- Next.js
+- Tailwindcss
+- C#
+- ASP.NET Web API
 
 📫 How to reach me: ...
 
