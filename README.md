@@ -8,6 +8,7 @@
 - Tailwindcss
 - C#
 - ASP.NET Web API
+- Golang
 
 📫 How to reach me: ...
 
