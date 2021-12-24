@@ -18,8 +18,8 @@ https://twitter.com/phumoonlight
 
 My statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=phumoonlight&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumoonlight&theme=radical&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=phumoonlight&show_icons=true&theme=chartreuse-dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumoonlight&theme=chartreuse-dark&layout=compact" />
 
 <!--
 **phumoonlight/phumoonlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
