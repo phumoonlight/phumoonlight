@@ -4,9 +4,9 @@ Sawasdee, I am web developer based in Thailand.
 
 ### Social Networks
 
-- facebook: [ppmeemee][facebook]
-- twitter: [phumoonlight][twitter]
-- linkedin: [poosarn-moolmuang](https://www.linkedin.com/in/poosarn-moolmuang/)
+- Facebook: [ppmeemee][facebook]
+- Twitter: [phumoonlight][twitter]
+- Linkedin: [poosarn-moolmuang](https://www.linkedin.com/in/poosarn-moolmuang/)
 
 ### Stacks
 
