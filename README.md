@@ -1,11 +1,12 @@
-# phumoonlight
+# phumoonlight SSS
 
-Sawasdee!
+Sawasdee, I am web developer based in Thailand.
 
 ### Social Networks
 
-[<img style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35" height="35" />][facebook]
-[<img style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" height="35" />][twitter]
+- facebook: [ppmeemee][facebook]
+- twitter: [phumoonlight][twitter]
+- linkedin: [poosarn-moolmuang](https://www.linkedin.com/in/poosarn-moolmuang/)
 
 ### Stacks
 
@@ -20,7 +21,7 @@ Sawasdee!
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="25" height="25" />][vue]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="25" height="25" />][angular]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25" height="25" />][next]
-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="25" height="25" />][tailwindcss]
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="25" height="25" />][sequelize]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="25" height="25" />][postgres]
@@ -43,6 +44,7 @@ Sawasdee!
 [typescript]: https://github.com/topics/typescript
 [html]: https://github.com/topics/html
 [css]: https://github.com/topics/css
+[tailwindcss]: https://tailwindcss.com/
 [postgres]: https://github.com/topics/postgres
 [sequelize]: https://github.com/sequelize/sequelize
 [mongodb]: https://www.mongodb.com/
