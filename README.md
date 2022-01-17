@@ -14,6 +14,7 @@ Sawasdee, I am web developer based in Thailand.
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />][javascript]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25" height="25" />][typescript]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="25" height="25" />][golang]
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25" />][python]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25" />][html]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25" />][css]
 
@@ -39,6 +40,7 @@ Sawasdee, I am web developer based in Thailand.
 [vue]: https://github.com/topics/vue
 [angular]: https://github.com/topics/angular
 [golang]: https://github.com/topics/go
+[python]: https://github.com/topics/python
 [node]: https://github.com/topics/node
 [javascript]: https://github.com/topics/javascript
 [typescript]: https://github.com/topics/typescript
