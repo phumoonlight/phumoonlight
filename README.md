@@ -2,10 +2,6 @@
 
 Sawasdee, I am web developer based in Thailand.
 
-### Social Networks
-
-- [Facebook][facebook]
-- [Twitter][twitter]
 - [Linkedin](https://www.linkedin.com/in/poosarn-moolmuang/)
 
 ### Skills
