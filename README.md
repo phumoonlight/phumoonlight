@@ -2,7 +2,7 @@
 
 Sawasdee, I am web developer based in Thailand.
 
-- [Linkedin](https://www.linkedin.com/in/poosarn-moolmuang/)
+- [Linkedin](https://www.linkedin.com/in/poosarn/) 
 
 [![lang](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,go,py)](https://skillicons.dev)
 
