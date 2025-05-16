@@ -1,6 +1,6 @@
 # phumoonlight SSS
 
-Sawasdee, I am web developer based in Thailand.
+Sawasdee, I am based web developer in Thailand.
 
 - [Linkedin](https://www.linkedin.com/in/poosarn/) 
 
